@@ -14,4 +14,3 @@
  - MongoDb (Database)
  - JWT (Authentication)
  
-### Link : https://foodzoned--app.herokuapp.com/
